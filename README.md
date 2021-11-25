@@ -1,2 +1,7 @@
-# EOS
-# Aditya0298
+# Embedded operating system
+
+## details about tools
+typora
+shutter
+draw.io
+
